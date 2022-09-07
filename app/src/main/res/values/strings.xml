@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Famous Landmarks</string>
+    <string name="eiffel_tower">Eiffel Tower</string>
+    <string name="statue_of_liberty">Statue of Liberty</string>
+</resources>
